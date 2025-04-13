@@ -9,3 +9,7 @@
 # этот бот сделать очень легко
 ## думаю справимся за 1-2 дня))
 
+### @InMindBot
+## @ProgrammingFAbot
+### @synonim_bot
+### @RU_history_bot
